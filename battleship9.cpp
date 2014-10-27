@@ -1,7 +1,3 @@
-/// Mikhail Nesterenko
-/// tests battleship with classes implementation 
-/// 10/20/2013 
-
 #include "battleship.h"
 #include <iostream>
 #include <ctime>
